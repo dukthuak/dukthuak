@@ -65,9 +65,9 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://hdt-profile-card.glitch.me/" target="blank">
+  <!-- <a href="https://hdt-profile-card.glitch.me/" target="blank">
     <img width="90" height="90" src="images/logo-dukthuak-transparent-bg-192x192.png" alt="dukthuak-blog" />
-  </a>
+  </a> -->
   <a href="https://facebook.com/dukthuak" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dukthuak-facebook" />
   </a>
@@ -101,10 +101,10 @@
   <br>
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/dukthuak" target="_blank">https://www.facebook.com/dukthuak</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:dukthuak.official@gmail.com" target="_top">dukthuak.official@gmail.com</a></strong>
+  <strong>📧 Hoặc Email: <a href="mailto:hoangducthuan0804@gmail.com" target="_top">hoangducthuan0804@gmail.com</a></strong>
 </p>
 <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-dukthuak-scaled.jpeg" width="1200" alt="dukthuak-official" />
+  <img src="images/fair-mern-stack-advanced-banner-dukthuak-scaled.jpg" width="1200" alt="dukthuak-official" />
 </a>
 
 <br>
