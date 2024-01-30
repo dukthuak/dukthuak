@@ -111,14 +111,11 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="https://www.facebook.com/dukthuak" target="_blank">
-  <img src="svg/dukthuak-quotes.svg" width="846" height="150" alt="dukthuak-official" />
-</a>
-<a href="https://www.facebook.com/dukthuak" target="_blank">
   <img src="images/1.png" width="1200" alt="dukthuak-official" />
 </a>
 <a href="https://www.facebook.com/dukthuak" target="_blank">
-  <img src="images/3.png" width="1200" alt="dukthuak-official" />
+  <img src="images/4.png" width="1200" alt="dukthuak-official" />
 </a>
 <a href="https://www.facebook.com/dukthuak" target="_blank">
-  <img src="images/3.png" width="1200" alt="dukthuak-official" />
+  <img src="svg/dukthuak-quotes.svg" width="846" height="150" alt="dukthuak-official" />
 </a>
