@@ -103,13 +103,22 @@
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:hoangducthuan0804@gmail.com" target="_top">hoangducthuan0804@gmail.com</a></strong>
 </p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
+<a href="fb.com/dukthuak" target="_blank">
   <img src="images/fair-mern-stack-advanced-banner-dukthuak-scaled.jpg" width="1200" alt="dukthuak-official" />
 </a>
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<a href="#" target="_blank">
+<a href="fb.com/dukthuak" target="_blank">
   <img src="svg/dukthuak-quotes.svg" width="846" height="150" alt="dukthuak-official" />
+</a>
+<a href="fb.com/dukthuak" target="_blank">
+  <img src="images/1.png" width="846" height="150" alt="dukthuak-official" />
+</a>
+<a href="fb.com/dukthuak" target="_blank">
+  <img src="images/3.png" width="846" height="150" alt="dukthuak-official" />
+</a>
+<a href="fb.com/dukthuak" target="_blank">
+  <img src="images/3.png" width="846" height="150" alt="dukthuak-official" />
 </a>
