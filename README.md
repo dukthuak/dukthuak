@@ -103,9 +103,9 @@
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:hoangducthuan0804@gmail.com" target="_top">hoangducthuan0804@gmail.com</a></strong>
 </p>
-<a href="https://www.facebook.com/dukthuak" target="_blank">
+<!-- <a href="https://www.facebook.com/dukthuak" target="_blank">
   <img src="images/fair-mern-stack-advanced-banner-dukthuak-scaled.jpg" width="1200" alt="dukthuak-official" />
-</a>
+</a> -->
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
