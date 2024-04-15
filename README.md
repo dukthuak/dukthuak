@@ -1,6 +1,6 @@
 <!-- dukthuak -->
 <a href="#" target="_blank">
-  <img src="svg/dukthuak.svg" width="1200" alt="dukthuak-official" />
+<!--   <img src="svg/dukthuak.svg" width="1200" alt="dukthuak-official" /> -->
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
